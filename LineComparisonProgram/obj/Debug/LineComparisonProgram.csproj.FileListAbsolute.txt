@@ -1,0 +1,8 @@
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\bin\Debug\LineComparisonProgram.exe.config
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\bin\Debug\LineComparisonProgram.exe
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\bin\Debug\LineComparisonProgram.pdb
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.AssemblyReference.cache
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.SuggestedBindingRedirects.cache
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\obj\Debug\LineComparisonProgram.csproj.CoreCompileInputs.cache
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\obj\Debug\LineComparisonProgram.exe
+C:\Users\hp\Desktop\Day8_LineComparison\LineComparisonProgram\obj\Debug\LineComparisonProgram.pdb
