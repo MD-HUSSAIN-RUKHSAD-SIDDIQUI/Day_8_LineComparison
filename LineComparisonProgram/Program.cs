@@ -16,8 +16,13 @@ namespace LineComparisonProgram
             linelength.Calculation();
            */
 
-            LineLengthEquality lineLengthEquality = new LineLengthEquality();
+            /*
+             * LineLengthEquality lineLengthEquality = new LineLengthEquality();
             lineLengthEquality.Check();
+            */
+            CompareLength compareLength = new CompareLength();
+            compareLength.Check();
+            
             Console.ReadKey();
         }
     }
